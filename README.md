@@ -14,6 +14,10 @@
 - Javascript Classes & Functions
 - Inquirer
 
+### In Use
+
+<a href="https://www.youtube.com/watch?v=QZOIENAWhKQ" target="_blank">Video Link</a>
+
 ### Screenshots
 <img width="397" alt="Screen Shot 2021-05-20 at 10 14 28 PM" src="https://user-images.githubusercontent.com/79162497/119072602-c0394880-b9b9-11eb-83b9-96681cc23a46.png">
 
